@@ -13,7 +13,8 @@ Esta es la nueva linea introducida en local
 Vuelvo a provocar el conflicto al poner la linea 13 en local
 # Nueva linea añadida en Remoto 
 Nueva linea 01 desde la Rama feature01 en local
-Nueva linea 01 desde la Rama feature02 en local
-Nueva linea 02 desde la Rama feature02 en local
-Nueva linea 02 desde la Rama feature02 en local
-Nueva linea 02 desde la Rama feature02 en local
+Nueva linea 01 desde la Rama feature01 en local
+Nueva linea 02 desde la Rama feature01 en local
+Nueva linea 02 desde la Rama feature01 en local
+Nueva linea 02 desde la Rama feature01 en local
+Nueva linea 03 desde la Rama feature01 en local
