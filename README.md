@@ -21,3 +21,4 @@ Nueva linea 03 desde la Rama feature01 en local
 Nueva linea 01 desde la Rama remota feature01_remota
 Nueva linea 02 desde la Rama remota feature01_remota
 Nueva linea 03 desde la Rama remota feature01_remota
+Nueva linea 01 desde la Rama remota feature01_remota commit numero 02
